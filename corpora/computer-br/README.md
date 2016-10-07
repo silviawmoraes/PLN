@@ -18,8 +18,8 @@ The Computer-BR *corpus* consists of 2,317 tweets (posted from January 1 to Sept
 
 ## Files
 
-- [Corpus with irony.xls](Computer-BR.xlsx)
-- [Corpus with irony.pdf](Computer-BR.pdf)
+- [Computer-BR.xls](Computer-BR.xlsx)
+- [Computer-BR.pdf](Computer-BR.pdf)
 
 ## Reference
 
