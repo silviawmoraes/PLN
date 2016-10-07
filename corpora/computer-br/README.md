@@ -18,12 +18,8 @@ The Computer-BR Corpus consists of 2,317 tweets (posted from January 1 to Septem
 
 ## Files
 
-We use irony as negative in our study, but we give the two options.
-
-- [Corpus with irony.xls](Computer-BR_Irony.xlsx)
-- [Corpus with irony.pdf](Computer-BR_Irony.pdf)
-- [Corpus without irony.xls](Computer-BR_withoutIrony.xlsx)
-- [Corpus without irony.pdf](Computer-BR_withoutIrony.xlsx)
+- [Corpus with irony.xls](Computer-BR.xlsx)
+- [Corpus with irony.pdf](Computer-BR.pdf)
 
 ## Reference
 
