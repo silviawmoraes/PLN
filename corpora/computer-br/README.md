@@ -5,7 +5,7 @@ The Corpus has 34,437 tokens and 4,653 types. To build it, we used keywords rela
 notebook, analysis, testing, and so on. We relied on 3 human annotators who defined the polarity of the tweets
 in the hole process, and 1 in cases of disagreement. We consider 2 equal polarities to the final polarity.
 It is worth mentioning that three annotators were from the Computer Science area and one from the Linguistics area.
-The final kappa index was 0.69.
+The final kappa index was 0.69, that shows a strength of agreement substantial.
 The annotation considered 4 classes:
 
 1. Irony (-2)
