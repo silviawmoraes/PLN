@@ -24,10 +24,14 @@ The annotation considered 4 classes:
 
 ## Files
 
+We use irony as negative in our study, but we give the two options.
+
+- [Corpus with irony.xls](Computer-BR_Irony.xlsx)
+- [Corpus with irony.pdf](Computer-BR_Irony.pdf)
+- [Corpus without irony.xls](Computer-BR_withoutIrony.xlsx)
+- [Corpus without irony.pdf](Computer-BR_withoutIrony.xlsx)
 
 ## Reference
-
-Comparing Approaches to Subjectivity Classification: A Study on Portuguese Tweets
 
 ###BibTex
 ```
