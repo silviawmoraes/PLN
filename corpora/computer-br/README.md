@@ -1,12 +1,6 @@
 # Computer-BR Corpus
 
-The Computer-BR Corpus consists of 2,317 tweets that was extracted in the period from January 1st to September 18th, 2015.
-The Corpus has 34,437 tokens and 4,653 types. To build it, we used keywords related to computers:
-notebook, analysis, testing, and so on. We relied on 3 human annotators who defined the polarity of the tweets
-in the hole process, and 1 in cases of disagreement. We consider 2 equal polarities to the final polarity.
-It is worth mentioning that three annotators were from the Computer Science area and one from the Linguistics area.
-The final kappa index was 0.69, that shows a strength of agreement substantial.
-The annotation considered 4 classes:
+The Computer-BR Corpus consists of 2,317 tweets (posted from January 1 to September 18, 2015), 34,437 tokens and 4,653 types. To build the corpus we used keywords related to computers, such as notebook, analysis, testing, and the like. We relied on 3 human annotators to define the polarity of the tweets in the whole process, and 1 annotator in cases of disagreement. We considered 2 equal polarities to the final polarity. It is worth mentioning that 3 annotators were from the Computer Science area, and 1 from the Linguistics area. The final kappa index was 0.69, which shows a strength of substantial agreement. The annotation considered 4 classes:
 
 1. Irony (-2)
 2. Negative (-1)
