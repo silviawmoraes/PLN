@@ -16,10 +16,9 @@ The Computer-BR *corpus* consists of 2,317 tweets (posted from January 1 to Sept
 | Neutral  | 1667 (72,4%) |
 | Positive | 197 (8,5%)   |
 
-## Files
+## File
 
 - [Computer-BR.xls](Computer-BR.xlsx)
-- [Computer-BR.pdf](Computer-BR.pdf)
 
 ## Reference
 
